@@ -53,7 +53,7 @@
                 <artifactId>function-maven-plugin</artifactId>
                 <version>0.10.0</version>
                 <configuration>
-                    <functionTarget>functions.ReadObject</functionTarget>
+                    <functionTarget>lambda.ReadObject</functionTarget>
                 </configuration>
             </plugin>
             <!--Build package-->

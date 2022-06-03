@@ -1,4 +1,4 @@
-package functions;
+package lambda;
 
 import com.google.cloud.functions.HttpRequest;
 import com.google.gson.JsonObject;
